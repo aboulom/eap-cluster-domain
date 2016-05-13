@@ -1,9 +1,9 @@
 Configuring a JBoss Cluster in Domain mode
 ================================================
-Author: Allen Boulom_
-Level: Beginner_
-Summary: This README demonstrates how to configure a JBoss cluster in domain mode._
-Target Product: JBoss EAP_
+Author: Allen Boulom  
+Level: Beginner  
+Summary: This README demonstrates how to configure a JBoss cluster in domain mode.  
+Target Product: JBoss EAP  
 Source: https://github.com/aboulom/eap-cluster-domain
 
 Overview
